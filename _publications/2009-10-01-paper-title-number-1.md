@@ -1,14 +1,18 @@
----
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+@article{10.1145/3676283,
+author = {Adriko, Rodney and Nurse, Jason R. C.},
+title = {Does Cyber Insurance Promote Cyber Security Best Practice? An Analysis Based on Insurance Application Forms},
+year = {2024},
+issue_date = {September 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {5},
+number = {3},
+url = {https://doi.org/10.1145/3676283},
+doi = {10.1145/3676283},
+abstract = {The significant rise in digital threats and attacks has led to an increase in the use of cyber insurance as a cyber risk treatment method intended to support organisations in the event of a security breach. Insurance providers are set up to assume such residual risk, but they often require organisations to implement certain security controls a priori to reduce their exposure. We examine the assertion that cyber insurance promotes cyber security best practice by conducting a critical examination of cyber insurance application forms to determine how well they align with ISO 27001, the NIST Cybersecurity Framework and the UK’s Cyber Essentials security standards. We achieve this by mapping questions and requirements expressed in insurance forms to the security controls covered in each of the standards. This allows us to identify security controls and standards that are considered—and likely most valued—by insurers and those that are neglected. We find that while there is some reasonable coverage across forms, there is an underrepresentation of best practice standards and controls generally, and particularly in some control areas (e.g., procedural/governance controls, incident response and recovery).},
+journal = {Digital Threats},
+month = oct,
+articleno = {25},
+numpages = {39},
+keywords = {Cyber insurance, cybersecurity, information security, ISO 27001, NIST Cybersecurity Framework, UK Cyber Essentials, security standards and controls, insurance proposal forms}
+}
